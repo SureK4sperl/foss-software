@@ -1,4 +1,4 @@
-# foss-software
+# foss‑software
 
 A curated collection of high-quality Free and Open Source Software (FOSS) focused on **privacy, anonymity, security, and improving everyday digital life**.
 
@@ -17,39 +17,33 @@ If you want to suggest new software or updates, please create a **pull request**
 
 **How to Suggest:**
 1. Fork this repository.  
-2. Add your suggestion in a clear format.  
-3. Open a pull request with a description of why this software should be included.  
-4. Wait for review and merge by the repository owner.
+2. Add your suggestion (with links & description).  
+3. Open a pull request explaining why the software should be added.  
+4. Wait for review and merge by the repo owner.
 
 ---
 
 ## Featured Software
 
-### Obtainium
-*Install and update apps directly from release pages, and receive notifications for new releases.*
-- GitHub: [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)  
-- Website: [obtainium.imranr.dev](https://obtainium.imranr.dev/)
+| Software | Description | Links |
+|---|---|---|
+| **Obtainium** | Install and update apps directly from their release pages; get notifications for new releases. | ![GitHub](./icons/github.svg) [GitHub](https://github.com/ImranR98/Obtainium) • 🌐 [Website](https://obtainium.imranr.dev/) |
+| **Iceraven** | A browser combining Fenix and Fennec, with enhanced customization and control. | ![GitHub](./icons/github.svg) [GitHub](https://github.com/fork-maintainers/iceraven-browser) |
+| **CoMaps** | A community-led maps app based on OpenStreetMap, built for transparency and privacy. | ![GitHub](./icons/github.svg) [GitHub](https://github.com/comaps/comaps) • 🌐 [Website](https://www.comaps.app/) |
+| **KDE Connect** | Seamless device linking across platforms — great for Linux, Android, and more. | ![GitHub](./icons/github.svg) [GitHub](https://github.com/KDE/kdeconnect-kde) • 🌐 [Website](https://invent.kde.org/network/kdeconnect-kde) |
+| **Termux** | Android terminal and Linux environment in a mobile app. | ![GitHub](./icons/github.svg) [GitHub](https://github.com/termux/termux-app) • 🌐 [Website](https://termux.dev/en/) |
+| **Aurora Store** | Privacy-first way to download Google Play apps (optionally without an account). | ![GitHub](./icons/github.svg) [GitHub](https://github.com/whyorean/AuroraStore) • 🌐 [Website](https://auroraoss.com/) |
 
-### Iceraven
-*A browser combining Fenix and Fennec with extended customization and control. Better extension support, frequent updates, user-focused design.*
-- GitHub: [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
+---
 
-### CoMaps
-*A community-led maps app based on OpenStreetMap, focusing on transparency, privacy, and not-for-profit values. Fork of Organic Maps.*  
-- GitHub: [comaps/comaps](https://github.com/comaps/comaps)  
-- Website: [comaps.app](https://www.comaps.app/)
+## Icons
 
-### KDE Connect
-*Link devices seamlessly across platforms; better than Microsoft Link, also works on Linux.*  
-- GitHub: [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde)  
-- Website: [invent.kde.org](https://invent.kde.org/network/kdeconnect-kde)
+- Icons are stored in the `./icons/` directory of this repo.  
+- You need to **add the SVG or PNG logos** for each software (GitHub logotype, project logo, etc.).  
+- For GitHub links, you can use a GitHub logo from a free/open-icon source. For example: Simple Icons or SVGRepo. :contentReference[oaicite:0]{index=0}  
 
-### Termux
-*Android terminal application and Linux environment.*  
-- GitHub: [termux/termux-app](https://github.com/termux/termux-app)  
-- Website: [termux.dev](https://termux.dev/en/)
+---
 
-### Aurora Store
-*Download, manage, and update Google Play apps with improved privacy; can be used without a Google account.*  
-- GitHub: [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore)  
-- Website: [auroraoss.com](https://auroraoss.com/)
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
